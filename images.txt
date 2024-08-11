@@ -1,2 +1,3 @@
 zzsrv/openwrt:armv8
 jeessy/ddns-go:latest
+--platform=linux/armv8 xiaoyaliu/alist
