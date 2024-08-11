@@ -1,2 +1,2 @@
-openwrt/rootfs:armsr-armv8
+zzsrv/openwrt:armv8
 jeessy/ddns-go:latest
