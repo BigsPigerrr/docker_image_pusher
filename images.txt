@@ -1,3 +1,5 @@
 zzsrv/openwrt:armv8
 jeessy/ddns-go:latest
+homeassistant/home-assistant
+jellyfin/jellyfin
 --platform=linux/armv8 xiaoyaliu/alist
