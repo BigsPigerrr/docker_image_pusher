@@ -1,3 +1,4 @@
 homeassistant/home-assistant
 jellyfin/jellyfin
-chx33/istoreos
+jsntwdj/istoreos:22.03.7
+kowming/istoreos-openwrt-n1-aarch64:istoreos
