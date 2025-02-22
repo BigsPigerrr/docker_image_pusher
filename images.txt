@@ -1,3 +1,3 @@
 kowming/istoreos-openwrt-n1-aarch64:istoreos
 jsntwdj/istoreos:22.03.7
---platform=linux/arm64/v8 portainer/portainer
+--platform=linux/arm64/v8 portainer/portainer:2.9.1
