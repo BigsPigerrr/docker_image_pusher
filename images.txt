@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 deluan/navidrome
+--platform=linux/arm64/v8 deluan/navidrome:develop
