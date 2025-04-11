@@ -1,1 +1,2 @@
 --platform=linux/arm64/v8 deluan/navidrome:develop
+--platform=linux/arm64/v8 filebrowser/filebrowser:v2.32.0-s6
